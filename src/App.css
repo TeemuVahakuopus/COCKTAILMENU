@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+h1 {
+  color: #4CAF50;
+}
+
+form {
+  margin: 20px;
+}
+
+input {
+  padding: 10px;
+  width: 200px;
+}
+
+button {
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
